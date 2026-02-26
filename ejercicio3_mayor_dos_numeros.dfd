@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'para saber cual valor es el mayor ingrese los numeros en el siguiente apartado'
+5
+1
+7
+v1 , v2
+7
+0
+1
+5
+v1>v2
+7
+0
+1
+5
+v1=v2
+4
+1
+24
+v2 , ' es mayor que' ,v1
+13
+4
+1
+26
+v1 , ' es igual que ' , v2
+13
+13
+4
+1
+26
+v1 , ' es mayor que ' ,v2 
+13
+1
